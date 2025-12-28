@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/ROS2-%23000000.svg?style=flat&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embedded%20Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-%23000000.svg?style=flat&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2FC%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
