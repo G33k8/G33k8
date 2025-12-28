@@ -12,7 +12,6 @@
 </p>
 
 
-**Robotics & Distributed Systems | BITS Pilani Goa**
 
 I’m an undergraduate in **Mathematics and Computing** at **BITS Pilani, Goa**.
 
