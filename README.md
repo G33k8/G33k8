@@ -1,12 +1,15 @@
 
 # Hello, I’m Atharva.
 
-![ROS2](https://img.shields.io/badge/ROS2-%23000000.svg?style=flat&logo=ros&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23000000.svg?style=flat&logo=linux&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat&logo=opencv&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/ROS2-%23000000.svg?style=flat&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embedded%20Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neovim-%2357A143.svg?style=flat&logo=neovim&logoColor=white" />
+</p>
 
 
 **Robotics & Distributed Systems | BITS Pilani Goa**
