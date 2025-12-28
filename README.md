@@ -15,7 +15,7 @@ I’m an undergraduate in **Mathematics and Computing** at **BITS Pilani, Goa**.
 
 ---
 
-## What I’m working on lately
+## What I’m working on:
 
 -Built and deployed a Jetson-based perception and SLAM stack using RTAB-Map for real-time mapping and localization on resource-constrained hardware.
 
