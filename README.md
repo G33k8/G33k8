@@ -25,10 +25,7 @@ I’m an undergraduate in **Mathematics and Computing** at **BITS Pilani, Goa**.
 
 -Working on GPS-denied UGV navigation, focusing on SLAM–planning integration, inter-node communication, and system reliability across distributed processes.
 
----
 
-
-Most of what lives here is messy, exploratory, and built without expectations—just things I wanted to try or learn from.
 
 <!--
 **G33k8/G33k8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
