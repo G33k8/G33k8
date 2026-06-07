@@ -17,15 +17,6 @@ I’m an undergraduate in **Mathematics and Computing** at **BITS Pilani, Goa**.
 
 ---
 
-## What I’m working on:
-
--Built and deployed a Jetson-based perception and SLAM stack using RTAB-Map for real-time mapping and localization on resource-constrained hardware.
-
--Integrated LiDAR and vision pipelines with ROS 2 Nav2, writing Python nodes and drivers to support autonomous navigation and goal execution.
-
--Working on GPS-denied UGV navigation, focusing on SLAM–planning integration, inter-node communication, and system reliability across distributed processes.
-
-
 
 <!--
 **G33k8/G33k8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
